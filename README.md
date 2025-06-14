@@ -20,9 +20,9 @@ I am a returnship-ready data analyst with 7 years of prior IT experience in ente
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [Shopify_Sales_Funnel Dashboard]() | A comprehensive business intelligence dashboard that analyzes over $4 million in net sales across U.S. cities and sales channels for a Shopify-based store| Power BI, DAX, Map Visuals, Card KPIs, Line and Donut Charts |
-| [Mobile_Warehouse_Dashboard]() | An interactive dashboard analyzing mobile phone sales across Indian cities by brand, model, payment method, and customer rating. | Power BI, Card Visuals, Slicers, Maps, Pie Charts |
-| [Superstore Sales Dashboard – Excel]() | Used pivot tables to break down sales performance | Excel Pivot Tables, Pivot Charts, Slicers, Conditional Formatting |
+| [Shopify_Sales_Funnel Dashboard](./Shopify_Sales_Funnel_Dashboard) | A comprehensive business intelligence dashboard that analyzes over $4 million in net sales across U.S. cities and sales channels for a Shopify-based store| Power BI, DAX, Map Visuals, Card KPIs, Line and Donut Charts |
+| [Mobile_Warehouse_Dashboard](./Mobile_Warehouse_Dashboard) | An interactive dashboard analyzing mobile phone sales across Indian cities by brand, model, payment method, and customer rating. | Power BI, Card Visuals, Slicers, Maps, Pie Charts |
+| [Superstore Sales Dashboard – Excel](./Superstore_Dashboard) | Used pivot tables to break down sales performance | Excel Pivot Tables, Pivot Charts, Slicers, Conditional Formatting |
 
 ---
 
