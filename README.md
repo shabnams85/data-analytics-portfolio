@@ -28,7 +28,7 @@ I am a returnship-ready data analyst with 7 years of prior IT experience in ente
 
 ## 📬 Let’s Connect
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/) or reach out via email to discuss opportunities or feedback on these projects.
+Feel free to connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shabnam-shaik-36201a32) or reach out via email to discuss opportunities or feedback on these projects.
 
 ---
 
