@@ -43,5 +43,5 @@ This dashboard was built using Microsoft Excel to provide a comprehensive sales 
 
 ## 📸 Screenshot
 
-![Superstore Dashboard](../images/superstore_dashboard.png)
+![Superstore Dashboard](./superstore_dashboard.png)
 
