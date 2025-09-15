@@ -1,11 +1,24 @@
 # Churn Prediction – StreamWorks Media
 
-Built a machine learning model to predict customer churn based on user activity logs from a media streaming platform.
+This project involved customer churn analysis for StreamWorks Media, a UK-based streaming platform.
 
-## 🔍 Key Highlights
-- Preprocessed behavioral data and handled missing values
-- Engineered features and trained classification models
-- Evaluated model performance and explained key churn indicators
+## Objectives
+- Understand churn behaviour and influencing factors
+- Predict churn likelihood using logistic regression
+- Identify drivers of engagement and watch time
 
-## 🛠 Tools & Skills
-Python, Pandas, Scikit-learn, Data Cleaning, Classification Models, Predictive Analytics
+## Techniques Used
+- Data cleaning and feature engineering
+- Logistic regression for churn classification
+- Linear regression for predicting watch time
+- Chi-square, t-tests, Pearson correlation
+- Model evaluation: Accuracy, AUC, F1 Score
+
+## Key Findings
+- `watch_per_fee_ratio` is the strongest predictor of both churn and engagement
+- Promotions slightly reduce churn, but require better targeting
+- Middle-aged users and low-engagement customers are most at-risk
+
+## Tools
+- Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+

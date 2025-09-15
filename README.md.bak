@@ -1,38 +1,40 @@
-# data-analytics-portfolio
+# 📊 data-analytics-portfolio
 
 Welcome to my portfolio of data analytics projects!
 
-I am a returnship-ready data analyst with 7 years of prior IT experience in enterprise systems and a recent career reboot through hands-on reskilling in SQL, Power BI, Excel, Tableau, and Python. This repository showcases the practical work I’ve done to strengthen my skills and demonstrate my ability to draw business insights from data.
+I am a returnship-ready data analyst with 7+ years of prior IT experience in enterprise systems and a recent career reboot through hands-on reskilling in SQL, Power BI, Excel, Tableau, and Python. This repository showcases practical projects to demonstrate my data storytelling, visualization, and business insight generation capabilities.
 
 ---
 
-## 🔧 Tools & Technologies
-
-- **SQL** – Data extraction, joins, window functions, data cleaning
-- **Power BI** – Interactive dashboards, data modeling, DAX
-- **Excel** – Pivot tables, VLOOKUP, charts, dashboards
-- **Python (Pandas, Matplotlib)** – Exploratory data analysis, automation
-- **Tableau** – Visual storytelling with public datasets
-
----
-
-## 📊 Projects Included
+## 🔍 Featured Projects
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [Shopify_Sales_Funnel Dashboard](./Shopify_Sales_Funnel_Dashboard) | A comprehensive business intelligence dashboard that analyzes over $4 million in net sales across U.S. cities and sales channels for a Shopify-based store| Power BI, DAX, Map Visuals, Card KPIs, Line and Donut Charts |
-| [Mobile_Warehouse_Dashboard](./Mobile_Warehouse_Dashboard) | An interactive dashboard analyzing mobile phone sales across Indian cities by brand, model, payment method, and customer rating. | Power BI, Card Visuals, Slicers, Maps, Pie Charts |
-| [Superstore Sales Dashboard – Excel](./Superstore_Dashboard) | Used pivot tables to break down sales performance | Excel Pivot Tables, Pivot Charts, Slicers, Conditional Formatting |
-| [Sales_Performance_Tableau_Dashboard](https://public.tableau.com/app/profile/shabnam.shaik6388/viz/Tableau_SalesProject/SalesDashboard) | An interactive dashboard analyzing sales, profit, and quantity trends with subcategory-level insights and visual indicators for performance. Published on Tableau Public to demonstrate storytelling skills. | Tableau Public, Excel, Trend Lines, Bar Charts, KPI Cards |
+| [Customer Sign-Up Insights](./Uptrail_Projects/Customer_Signup_Insights) | Analyzed customer onboarding data and support ticket patterns to highlight signup friction and user experience issues. | Python, Pandas, EDA, Data Wrangling |
+| [GreenCart Sales Analysis](./Uptrail_Projects/GreenCart_Sales_Analysis) | Uncovered customer behavior trends and product insights from merged multi-source retail data. | Python, Pandas, EDA, Matplotlib |
+| [StreamWorks Churn Modeling](./Uptrail_Projects/StreamWorks_Churn_Modeling) | Built a classification model to predict customer churn using behavioral data. | Python, Scikit-learn, Data Cleaning, Predictive Analytics |
+| [TechHub Sales Dashboard](./Uptrail_Projects/TechHub_Sales_Dashboard) | Developed a Power BI dashboard to visualize product performance and customer segmentation for a tech retailer. | Power BI, DAX, KPIs, Dashboard Design |
+| [Shopify Sales Dashboard](./Shopify_Sales_Funnel_Dashboard) | Tracked $4M+ Shopify sales across US cities and channels using DAX, KPIs, and map visuals. | Power BI, DAX, Maps, Slicers |
+| [Mobile Warehouse Dashboard](./Mobile_Warehouse_Dashboard) | Visualized mobile sales by brand, payment method, and city across India. | Power BI, Card Visuals, Pie/Bar Charts |
+| [Superstore Excel Dashboard](./Superstore_Dashboard) | Built pivot-based dashboards to analyze KPIs by region and month. | Excel Pivot Tables, Slicers, Conditional Formatting |
+| [Tableau Sales Dashboard](./tableau-sales-dashboard) | Interactive Tableau dashboard showcasing sales, profit, and quantity trends across categories. | Tableau, Data Viz, Storytelling |
 
 ---
 
-## 📬 Let’s Connect
+## 📌 Key Skills Demonstrated
 
-Feel free to connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shabnam-shaik-36201a32) or reach out via email to discuss opportunities or feedback on these projects.
+- Data Cleaning & Wrangling (Python, SQL)
+- Dashboarding & BI Reporting (Power BI, Excel, Tableau)
+- Exploratory Data Analysis (EDA)
+- Predictive Modeling (Scikit-learn)
+- Business Problem Solving & Insight Communication
 
 ---
 
-## ✅ Goal
+📫 **Let’s Connect**  
+🔗 [LinkedIn](https://www.linkedin.com/in/shabnam-shaik)  
+🔗 [Tableau Public Portfolio](https://public.tableau.com/app/profile/shabnam.shaik)
 
-This portfolio is part of my journey to return to the workforce in a meaningful data analyst role. I am actively looking for remote or flexible opportunities where I can contribute to business insights using modern data tools.
+---
+
+> *Open to data analyst, BI analyst, and internship/returnship roles — remote or hybrid.*
